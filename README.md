@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Eisha20
-- 👀 I’m interested in App and data modeling projects
-- 🌱 I’m currently learning C++ and python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I am a Computer Science student @ UC, Berkeley.
+I am intrested in cyber security, in using the power 
+of programming to slove problems in various fileds and 
+in exploring more aspects of the tech industry. 
 
 <!---
 Eisha20/Eisha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
